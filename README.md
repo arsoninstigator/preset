@@ -4,4 +4,14 @@ here's a collection of assets i built during arcade :
 - brushes that can be imported to ibis paint x (on android)
 
 # #1 importing filter into polarr
-![setup](https://github.com/user-attachments/assets/38b6f25c-e82b-456a-91d4-4a774cc6dbb6)
+- install polarr on mobile from the app store / google play store
+- download the qr code of the specific preset (for example, from the folder within this repo) as an image file
+- open an existing image or a sample photo on the app
+- click on 'filters'
+- select the import button
+- import the image previously downloaded from github into the app
+- apply the filter onto your desired image
+- adjust if necessary (based on lighting, texture etc.)
+- voila ! save your image and do the same thing over with videos
+
+find a video demo (for browser) [here](https://github.com/arsoninstigator/preset/blob/main/polarr%20-%20how%20to.mp4)
