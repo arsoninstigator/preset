@@ -17,6 +17,9 @@ here's a collection of assets i built during arcade :
 
 find a video demo (for browser) [here](https://github.com/arsoninstigator/preset/blob/main/polarr%20-%20how%20to.mp4)
 
+<img width="1118" alt="image" src="https://github.com/user-attachments/assets/7ecefd9e-b66e-4c8d-85ae-93237b57f8ec">
+
+
 # #2 importing brush into ibispaintx
 - take a picture, download, or screenshot the qr codes.
 - open the ibispaint app, start a new artwork or open an existing one.
